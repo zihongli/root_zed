@@ -1,3 +1,4 @@
+
 ::sysinit:/etc/init.d/rcS
 # /bin/ash
 # 
@@ -7,3 +8,5 @@ ttyPS0::respawn:-/bin/ash
 ::restart:/sbin/init
 # What to do before rebooting
 ::shutdown:/bin/umount -a –r
+
+
