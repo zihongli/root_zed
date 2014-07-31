@@ -17,9 +17,9 @@ echo "++ Starting http daemon"
 httpd -h /var/www
 echo "++ Starting ftp daemon"
 tcpsvd 0:21 ftpd ftpd -w /&
-echo "++ Starting dropbear (ssh) daemon"
+#echo "++ Starting dropbear (ssh) daemon"
 #dropbear
 echo "rcS Complete"
-
+/bin/hostname -F /etc/hostname
 /sbin/ifconfig lo 127.0.0.1
 /sbin/ifconfig eth0 192.168.0.20
