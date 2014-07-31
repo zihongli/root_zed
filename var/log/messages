@@ -1,0 +1,246 @@
+Jan  1 00:00:05 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:05 hello daemon.info init: starting pid 630, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:42:18 hello daemon.info init: starting pid 657, tty '': '/bin/umount -a –r'
+Jan  1 00:42:18 hello daemon.info init: The system is going down NOW!
+Jan  1 00:42:18 hello syslog.info syslogd exiting
+Jan  1 00:00:06 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:06 hello daemon.info init: starting pid 630, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:00:05 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:05 hello daemon.info init: starting pid 630, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:15:23 hello daemon.info init: starting pid 640, tty '': '/bin/umount -a –r'
+Jan  1 00:15:23 hello daemon.info init: The system is going down NOW!
+Jan  1 00:15:23 hello syslog.info syslogd exiting
+Jan  1 00:00:02 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:02 hello daemon.info init: starting pid 629, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:00:06 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:06 hello daemon.info init: starting pid 630, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:01:52 hello daemon.info init: starting pid 633, tty '': '/bin/umount -a –r'
+Jan  1 00:01:53 hello daemon.info init: The system is going down NOW!
+Jan  1 00:01:53 hello syslog.info syslogd exiting
+Jan  1 00:00:06 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:06 hello daemon.info init: starting pid 629, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:00:02 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:02 hello daemon.info init: starting pid 630, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 01:35:04 hello daemon.info init: starting pid 681, tty '': '/bin/umount -a –r'
+Jan  1 01:35:05 hello daemon.info init: The system is going down NOW!
+Jan  1 01:35:05 hello syslog.info syslogd exiting
+Jan  1 00:00:06 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:06 hello daemon.info init: starting pid 643, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:00:37 hello daemon.info init: starting pid 658, tty '': '/bin/umount -a –r'
+Jan  1 00:00:37 hello daemon.info init: The system is going down NOW!
+Jan  1 00:00:37 hello syslog.info syslogd exiting
+Jan  1 00:00:05 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:05 hello daemon.info init: starting pid 630, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:15:33 hello daemon.info init: starting pid 638, tty '': '/bin/umount -a –r'
+Jan  1 00:15:33 hello daemon.info init: The system is going down NOW!
+Jan  1 00:15:33 hello syslog.info syslogd exiting
+Jan  1 00:00:05 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:05 hello daemon.info init: starting pid 630, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:50:14 hello daemon.info init: starting pid 645, tty '': '/bin/umount -a –r'
+Jan  1 00:50:14 hello daemon.info init: The system is going down NOW!
+Jan  1 00:50:14 hello syslog.info syslogd exiting
+Jan  1 00:00:05 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:05 hello daemon.info init: starting pid 631, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 05:59:31 hello daemon.info init: starting pid 707, tty '': '/bin/umount -a –r'
+Jan  1 05:59:32 hello daemon.info init: The system is going down NOW!
+Jan  1 05:59:32 hello syslog.info syslogd exiting
+Jan  1 00:00:06 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:06 hello daemon.info init: starting pid 630, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:01:16 hello daemon.info init: starting pid 633, tty '': '/bin/umount -a –r'
+Jan  1 00:01:17 hello daemon.info init: The system is going down NOW!
+Jan  1 00:01:17 hello syslog.info syslogd exiting
+Jan  1 00:00:05 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:05 hello daemon.info init: starting pid 630, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:00:15 hello daemon.info init: starting pid 633, tty '': '/bin/umount -a –r'
+Jan  1 00:00:15 hello daemon.info init: The system is going down NOW!
+Jan  1 00:00:15 hello syslog.info syslogd exiting
+Jan  1 00:00:06 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:06 hello daemon.info init: starting pid 630, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 01:38:32 hello daemon.info init: starting pid 649, tty '': '/bin/umount -a –r'
+Jan  1 01:38:32 hello daemon.info init: The system is going down NOW!
+Jan  1 01:38:32 hello syslog.info syslogd exiting
+Jan  1 00:00:25 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:25 hello daemon.info init: starting pid 631, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:14:58 hello daemon.info init: starting pid 638, tty '': '/bin/umount -a –r'
+Jan  1 00:14:58 hello daemon.info init: The system is going down NOW!
+Jan  1 00:14:58 hello syslog.info syslogd exiting
+Jan  1 00:00:05 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:05 hello daemon.info init: starting pid 630, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:34:12 hello daemon.info init: starting pid 643, tty '': '/bin/umount -a –r'
+Jan  1 00:34:12 hello daemon.info init: The system is going down NOW!
+Jan  1 00:34:12 hello syslog.info syslogd exiting
+Jan  1 00:00:12 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:12 hello daemon.info init: starting pid 715, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:56:45 hello daemon.info init: starting pid 722, tty '': '/bin/umount -a –r'
+Jan  1 00:56:45 hello daemon.info init: The system is going down NOW!
+Jan  1 00:56:45 hello syslog.info syslogd exiting
+Jan  1 00:00:11 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:11 hello daemon.info init: starting pid 716, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:49:21 hello daemon.info init: starting pid 719, tty '': '/bin/umount -a –r'
+Jan  1 00:49:21 hello daemon.info init: The system is going down NOW!
+Jan  1 00:49:21 hello syslog.info syslogd exiting
+Jan  1 00:00:11 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:11 hello daemon.info init: starting pid 716, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 01:19:33 hello daemon.info init: starting pid 719, tty '': '/bin/umount -a –r'
+Jan  1 01:19:33 hello daemon.info init: The system is going down NOW!
+Jan  1 01:19:33 hello syslog.info syslogd exiting
+Jan  1 00:00:11 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:11 hello daemon.info init: starting pid 716, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:25:22 hello daemon.info init: starting pid 718, tty '': '/bin/umount -a –r'
+Jan  1 00:25:23 hello daemon.info init: The system is going down NOW!
+Jan  1 00:25:23 hello syslog.info syslogd exiting
+Jan  1 00:00:23 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:23 hello daemon.info init: starting pid 630, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 02:47:40 hello daemon.info init: starting pid 647, tty '': '/bin/umount -a –r'
+Jan  1 02:47:40 hello daemon.info init: The system is going down NOW!
+Jan  1 02:47:40 hello syslog.info syslogd exiting
+Jan  1 00:00:02 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:05 hello daemon.info init: starting pid 630, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 05:15:27 hello daemon.info init: starting pid 657, tty '': '/bin/umount -a –r'
+Jan  1 05:15:27 hello daemon.info init: The system is going down NOW!
+Jan  1 05:15:27 hello syslog.info syslogd exiting
+Jan  1 00:00:46 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:46 hello daemon.info init: starting pid 654, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:05:23 hello daemon.info init: starting pid 661, tty '': '/bin/umount -a –r'
+Jan  1 00:05:23 hello daemon.info init: The system is going down NOW!
+Jan  1 00:05:23 hello syslog.info syslogd exiting
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 654, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:33:10 hello daemon.info init: starting pid 665, tty '': '/bin/umount -a –r'
+Jan  1 00:33:10 hello daemon.info init: The system is going down NOW!
+Jan  1 00:33:10 hello syslog.info syslogd exiting
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 654, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:24:04 hello daemon.info init: starting pid 660, tty '': '/bin/umount -a –r'
+Jan  1 00:24:04 hello daemon.info init: The system is going down NOW!
+Jan  1 00:24:04 hello syslog.info syslogd exiting
+Jan  1 00:00:05 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:05 hello daemon.info init: starting pid 655, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:21:03 hello daemon.info init: starting pid 665, tty '': '/bin/umount -a –r'
+Jan  1 00:21:03 hello daemon.info init: The system is going down NOW!
+Jan  1 00:21:03 hello syslog.info syslogd exiting
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 666, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 05:05:45 hello daemon.info init: starting pid 719, tty '': '/bin/umount -a –r'
+Jan  1 05:05:45 hello daemon.info init: The system is going down NOW!
+Jan  1 05:05:45 hello syslog.info syslogd exiting
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:01:19 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:01:19 hello daemon.info init: starting pid 666, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:01:24 hello daemon.info init: starting pid 669, tty '': '/bin/umount -a –r'
+Jan  1 00:01:24 hello daemon.info init: The system is going down NOW!
+Jan  1 00:01:24 hello syslog.info syslogd exiting
+Jan  1 00:00:48 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:48 hello daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 666, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 666, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:16:36 hello daemon.info init: starting pid 677, tty '': '/bin/umount -a –r'
+Jan  1 00:16:36 hello daemon.info init: The system is going down NOW!
+Jan  1 00:16:36 hello syslog.info syslogd exiting
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 666, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:23:05 hello daemon.info init: starting pid 674, tty '': '/bin/umount -a –r'
+Jan  1 00:23:05 hello daemon.info init: The system is going down NOW!
+Jan  1 00:23:05 hello syslog.info syslogd exiting
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 666, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:11:39 hello daemon.info init: starting pid 673, tty '': '/bin/umount -a –r'
+Jan  1 00:11:40 hello daemon.info init: The system is going down NOW!
+Jan  1 00:11:40 hello syslog.info syslogd exiting
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:58:09 hello daemon.info init: starting pid 684, tty '': '/bin/umount -a –r'
+Jan  1 00:58:09 hello daemon.info init: The system is going down NOW!
+Jan  1 00:58:09 hello syslog.info syslogd exiting
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 04:31:40 hello daemon.info init: starting pid 717, tty '': '/bin/umount -a –r'
+Jan  1 04:31:41 hello daemon.info init: The system is going down NOW!
+Jan  1 04:31:41 hello syslog.info syslogd exiting
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 03:45:32 hello daemon.info init: starting pid 715, tty '': '/bin/umount -a –r'
+Jan  1 03:45:32 hello daemon.info init: The system is going down NOW!
+Jan  1 03:45:32 hello syslog.info syslogd exiting
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  2 10:04:04 hello daemon.info init: starting pid 929, tty '': '/bin/umount -a –r'
+Jan  2 10:04:04 hello daemon.info init: The system is going down NOW!
+Jan  2 10:04:04 hello syslog.info syslogd exiting
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 666, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  2 18:59:10 hello daemon.info init: starting pid 1162, tty '': '/bin/umount -a –r'
+Jan  2 18:59:10 hello daemon.info init: The system is going down NOW!
+Jan  2 18:59:10 hello syslog.info syslogd exiting
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 666, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:21:31 hello daemon.info init: starting pid 684, tty '': '/bin/umount -a –r'
+Jan  1 00:21:31 hello daemon.info init: The system is going down NOW!
+Jan  1 00:21:31 hello syslog.info syslogd exiting
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:01:44 hello daemon.info init: starting pid 671, tty '': '/bin/umount -a –r'
+Jan  1 00:01:44 hello daemon.info init: The system is going down NOW!
+Jan  1 00:01:44 hello syslog.info syslogd exiting
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:09:04 hello daemon.info init: starting pid 673, tty '': '/bin/umount -a –r'
+Jan  1 00:09:05 hello daemon.info init: The system is going down NOW!
+Jan  1 00:09:05 hello syslog.info syslogd exiting
+Jan  1 00:00:10 hello syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 hello daemon.info init: starting pid 666, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:00:38 hello daemon.info init: starting pid 669, tty '': '/bin/umount -a –r'
+Jan  1 00:00:38 hello daemon.info init: The system is going down NOW!
+Jan  1 00:00:38 hello syslog.info syslogd exiting
+Jan  1 00:00:10 –F syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 –F daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:00:24 –F daemon.info init: starting pid 670, tty '': '/bin/umount -a –r'
+Jan  1 00:00:25 –F daemon.info init: The system is going down NOW!
+Jan  1 00:00:25 –F syslog.info syslogd exiting
+Jan  1 00:00:10 –F syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 –F daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:01:14 –F daemon.info init: starting pid 670, tty '': '/bin/umount -a –r'
+Jan  1 00:01:14 –F daemon.info init: The system is going down NOW!
+Jan  1 00:01:14 –F syslog.info syslogd exiting
+Jan  1 00:00:10 –F syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 –F daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:02:20 –F daemon.info init: starting pid 670, tty '': '/bin/umount -a –r'
+Jan  1 00:02:20 –F daemon.info init: The system is going down NOW!
+Jan  1 00:02:20 –F syslog.info syslogd exiting
+Jan  1 00:00:10 –F syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 –F daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:01:04 –F daemon.info init: starting pid 670, tty '': '/bin/umount -a –r'
+Jan  1 00:01:05 –F daemon.info init: The system is going down NOW!
+Jan  1 00:01:05 –F syslog.info syslogd exiting
+Jan  1 00:00:10 –F syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 –F daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 01:01:52 –F daemon.info init: starting pid 684, tty '': '/bin/umount -a –r'
+Jan  1 01:01:52 –F daemon.info init: The system is going down NOW!
+Jan  1 01:01:52 –F syslog.info syslogd exiting
+Jan  1 00:00:10 MIAT syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 MIAT daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:07:36 MIAT daemon.info init: starting pid 672, tty '': '/bin/umount -a –r'
+Jan  1 00:07:36 MIAT daemon.info init: The system is going down NOW!
+Jan  1 00:07:36 MIAT syslog.info syslogd exiting
+Jan  1 00:00:10 MIAT syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 MIAT daemon.info init: starting pid 666, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 00:08:13 MIAT daemon.info init: starting pid 676, tty '': '/bin/umount -a –r'
+Jan  1 00:08:13 MIAT daemon.info init: The system is going down NOW!
+Jan  1 00:08:13 MIAT syslog.info syslogd exiting
+Jan  1 00:00:10 MIAT syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 MIAT daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 03:16:45 MIAT daemon.info init: starting pid 685, tty '': '/bin/umount -a –r'
+Jan  1 03:16:45 MIAT daemon.info init: The system is going down NOW!
+Jan  1 03:16:45 MIAT syslog.info syslogd exiting
+Jan  1 00:00:10 MIAT syslog.info syslogd started: BusyBox v1.23.0.git
+Jan  1 00:00:10 MIAT daemon.info init: starting pid 667, tty '/dev/ttyPS0': '-/bin/ash'
+Jan  1 21:29:38 MIAT daemon.info init: starting pid 899, tty '': '/bin/umount -a –r'
+Jan  1 21:29:38 MIAT daemon.info init: The system is going down NOW!
+Jan  1 21:29:38 MIAT syslog.info syslogd exiting
